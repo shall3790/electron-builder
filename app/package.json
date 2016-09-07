@@ -1,0 +1,12 @@
+{
+  "name": "electronbuilderdemo",
+  "version": "1.1.0",
+  "description": "electron builder demo app",
+  "main": "main.js",
+  "keywords": [],
+  "author": "Stephen Hall",
+  "license": "ISC",
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  }
+}
